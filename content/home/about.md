@@ -8,10 +8,5 @@ weight: 20
 title: Biography
 design:
   background:
-    image: markle.jpg
+    image: ""
 ---
-<!--StartFragment-->
-
-I am an experienced **technical writer** with a background in training **software developers**. I specialise in **API documentation**.
-
-<!--EndFragment-->
